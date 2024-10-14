@@ -1,7 +1,8 @@
-let x;
-let y;
-let z;
-x = "Ayca Merve Tohunmcu";
-y = 36;
-z = "blue and green";
-console.log(x, y, z);
+let fname;
+let age;
+let colour;
+
+fname = "Ayca Merve Tohumcu"; 
+age = 36;
+colour = "blue and green";
+console.log(`My name is ${fname}, I am ${age} years old, and my favourite colours are ${colour}.`);
