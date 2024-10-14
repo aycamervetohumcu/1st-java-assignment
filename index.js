@@ -1,3 +1,5 @@
+console.log("Hello World!");
+
 let fname;
 let age;
 let colour;
